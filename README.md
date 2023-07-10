@@ -22,7 +22,7 @@ The following datasets are used in the examples provided:
 
 - 5 Flower Dataset: The [5 Flower Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition) is used for experiments in the `ZSL_17flower.ipynb` file. It contains images of 5 different flower classes. Make sure to download and preprocess the dataset before running the code.
 
-## Usages
+## Usage
 
 This repository contains 3 files.
 
