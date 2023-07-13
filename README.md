@@ -18,9 +18,9 @@ Additionally, the implementation in the `ZSL_5flower.ipynb` and `ZSL_17flower.ip
 
 The following datasets are used in the examples provided:
 
-- 17 Flower Dataset: The [17 Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html) is used for experiments in the `ZSL_5flower.ipynb` file. It consists of images of 17 different flower categories. Please download and preprocess the dataset before running the code.
+- 17 Flower Dataset: The [17 Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html) is used for experiments in the `ZSL_17flower.ipynb` file. It consists of images of 17 different flower categories. Please download and preprocess the dataset before running the code.
 
-- 5 Flower Dataset: The [5 Flower Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition) is used for experiments in the `ZSL_17flower.ipynb` file. It contains images of 5 different flower classes. Make sure to download and preprocess the dataset before running the code.
+- 5 Flower Dataset: The [5 Flower Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition) is used for experiments in the `ZSL_5flower.ipynb` file. It contains images of 5 different flower classes. Make sure to download and preprocess the dataset before running the code.
 
 ## Usage
 
